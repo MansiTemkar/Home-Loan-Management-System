@@ -1,4 +1,4 @@
-# 🏦 Loan Management System (Frontend)
+# 🏦 Loan Management System 
 
 **Loan Management System** is a full-stack loan application management platform that allows users to apply for loans, upload documents, track application status, view sanction letters, and more. This repository contains the **Angular frontend**.
 
